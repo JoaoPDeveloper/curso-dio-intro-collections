@@ -17,7 +17,7 @@ public class ExerciciosStreamAPI {
 //                 .forEach(System.out::println);
 //        numerosAleatorios.forEach(System.out::println);
 
-//        System.out.println("Pegue os 5 primeiros números e coloque dentro de um Set:");
+       System.out.println("Pegue os 5 primeiros números e coloque dentro de um Set:");
 //        numerosAleatorios.stream()
 //                .limit(5)
 //                .collect(Collectors.toSet())
